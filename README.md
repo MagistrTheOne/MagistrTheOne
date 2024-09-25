@@ -26,6 +26,11 @@ I specialize in game and software testing, creating test cases, writing bug repo
 ## 🎯 My Approach
 I take a responsible and detailed approach to testing, bug hunting, and solving creative problems. I specialize in cheat and vulnerability discovery and testing anti-cheat systems in online games. My goal is to ensure the highest quality and stability for products.
 
+## 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/maxim-onyushko-ba2566243/)  
+- [Telegram](https://t.me/Jkoffical2024)  
+- [Email](mailto:maxonyushko71@gmail.com)
+
 ---
 
 Thanks for visiting my GitHub! Feel free to connect and explore my work.
