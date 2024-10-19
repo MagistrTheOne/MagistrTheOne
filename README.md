@@ -4,15 +4,14 @@
 
 I specialize in game and software testing, creating test cases, writing bug reports, and handling localization and documentation. Some of the notable projects I’ve worked on include:
 
-- **World of Tanks** — testing new tanks, mechanics, and maps.
-- **FIFA 23** — verifying game functionality.
-- **Mobile Legends: Bang Bang** — character and UI testing, former community manager.
-- **The Sims** (new version under NDA) — functional and localization testing.
+- **World of Tanks** — Testing new tanks, mechanics, and maps.
+- **FIFA 23** — Verifying game functionality.
+- **Mobile Legends: Bang Bang** — Character and UI testing, former community manager.
 - **Skaters (EA)** — active participation in new content testing.
 
 ## 🛠️ Skills & Tools
-- **Languages**: C++
-- **Testing**: test case creation, bug reporting, localization
+- **Languages**: C++(basic)
+- **Testing**: Test case creation, bug reporting, localization
 - **Version Control**: Git, GitHub
 - **Development Environment**: Unreal Engine 5.4.3
 - **Task Tracking**: Jira
