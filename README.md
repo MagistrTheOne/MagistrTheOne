@@ -1,24 +1,26 @@
 # 👋 Hi there! I'm Maxim Onyushko
 
-## 🎮 QA Engineer with over 3 years of experience in the gaming industry
+## 🎮 QA Engineer with over 5 years of experience in the gaming industry
 
 I specialize in game and software testing, creating test cases, writing bug reports, and handling localization and documentation. Some of the notable projects I’ve worked on include:
 
 - **World of Tanks** — Testing new tanks, mechanics, and maps.
 - **FIFA 23** — Verifying game functionality.
-- **Mobile Legends: Bang Bang** — Character and UI testing, former community manager.
 - **Skaters (EA)** — active participation in new content testing.
-
+- **The Sims (EA)** — Tesing game for bug.
+-*Leonardo.AI* — Usability tester.
 ## 🛠️ Skills & Tools
-- **Languages**: C++(basic)
-- **Testing**: Test case creation, bug reporting, localization
-- **Version Control**: Git, GitHub
-- **Development Environment**: Unreal Engine 5.4.3
+- **Languages**: C++,Python.
+- **Testing**: Test-case,bug report.
+- **Version Control**: Git, GitHub,Visual studio Control.
+- **Development Environment**: Unreal Engine 5.4.4
 - **Task Tracking**: Jira
 - **CI/CD**: Docker
 
 ## 📜 Certifications & Education
-- **QA Engineering**
+- **QA Engineer**
+- **Software Tester**
+- *Написание автотестов на Python*
 - **Marketing Management**
 - **Content Management**
 
