@@ -5,7 +5,7 @@
 I specialize in game and software testing, creating test cases, writing bug reports, and handling localization and documentation. Some of the notable projects I’ve worked on include:
 
 - **World of Tanks** — Testing new tanks, mechanics, and maps.
-- **FIFA 23** — Verifying game functionality.
+- **FIFA 24** — Game UI and Game Features Tester.
 - **Skaters (EA)** — active participation in new content testing.
 - **The Sims (EA)** — Tesing game for bug.
 -*Leonardo.AI* — Usability tester.
