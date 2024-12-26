@@ -12,9 +12,9 @@ I specialize in game and software testing, creating test cases, writing bug repo
 ## 🛠️ Skills & Tools
 - **Languages**: Python.
 - **Testing**: Test-case,bug report.
-- **Version Control**: Git, GitHub,Visual studio Control.
-- **Development Environment**: Unreal Engine 5.4.4
-- **Task Tracking**: Jira
+- **Version Control**: Git, GitHub
+- **Development Environment**: Unreal Engine 5.5
+- **Task Tracking**: Test Rail,TestMo
 - **CI/CD**: Docker
 
 ## 📜 Certifications & Education
