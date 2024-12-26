@@ -20,7 +20,6 @@ I specialize in game and software testing, creating test cases, writing bug repo
 ## 📜 Certifications & Education
 - **QA Engineer**
 - **Software Tester**
-- *Написание автотестов на Python*
 - **Marketing Management**
 - **Content Management**
 
