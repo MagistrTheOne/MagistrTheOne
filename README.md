@@ -10,7 +10,7 @@ I specialize in game and software testing, creating test cases, writing bug repo
 - **The Sims (EA)** — Tesing game for bug.
 -*Leonardo.AI* — Usability tester.
 ## 🛠️ Skills & Tools
-- **Languages**: C++,Python.
+- **Languages**: Python.
 - **Testing**: Test-case,bug report.
 - **Version Control**: Git, GitHub,Visual studio Control.
 - **Development Environment**: Unreal Engine 5.4.4
