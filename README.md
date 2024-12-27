@@ -8,7 +8,7 @@ I specialize in game and software testing, creating test cases, writing bug repo
 - **FIFA 24** — Game UI and Game Features Tester.
 - **Skaters (EA)** — active participation in new content testing.
 - **The Sims (EA)** — Tesing game for bug.
--*Leonardo.AI* — Usability tester.
+-**Leonardo.AI** — Usability tester.
 ## 🛠️ Skills & Tools
 - **Languages**: Python.
 - **Testing**: Test-case,bug report.
