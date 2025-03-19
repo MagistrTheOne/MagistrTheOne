@@ -30,7 +30,7 @@
 ## 🔥 **Текущие проекты**
 | 📌 Проект  | 🛠️ Описание | 🚀 Стек  | 🔗 Ссылка |
 |-----------|------------|----------|----------|
-| **TWICO** |social app | React, Redux, Firebase | [🔗 GitHub](#) |
+| **TWICO** |social app | React, Redux, Supabase,Taiw 4.0,Typescript | [🔗 GitHub](#) |
 
 
 
