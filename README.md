@@ -30,32 +30,9 @@
 ## 🔥 **Текущие проекты**
 | 📌 Проект  | 🛠️ Описание | 🚀 Стек  | 🔗 Ссылка |
 |-----------|------------|----------|----------|
-| **Trello Clone** | Система управления задачами | React, Redux, Firebase | [🔗 GitHub](#) |
-| **Chat App** | Реальный мессенджер | React, WebSockets, Node.js | [🔗 GitHub](#) |
-| **E-Commerce** | Полноценный интернет-магазин | Next.js, MongoDB, Stripe | [🔗 GitHub](#) |
+| **TWICO** |social app | React, Redux, Firebase | [🔗 GitHub](#) |
 
----
 
-## 📅 **План развития (6 месяцев)**
-### **🚀 1. HTML + CSS + JS (Февраль - Март)**  
-✔ Верстка, адаптивный дизайн, анимации  
-✔ Глубокое изучение JavaScript (ES6+)  
-✔ Первые интерактивные проекты  
-
-### **⚡ 2. React + Tailwind + API (Апрель)**  
-✔ Разработка SPA  
-✔ Подключение API  
-✔ Состояние (useState, useEffect, Redux)  
-
-### **🛠 3. Backend + FullStack проекты (Май - Июнь)**  
-✔ Node.js + Express + MongoDB  
-✔ JWT-авторизация  
-✔ Разработка FullStack-приложений  
-
-### **🎯 4. Глубокий FullStack + Продакшен (Июль - Август)**  
-✔ CI/CD, Docker, деплой на сервер  
-✔ GraphQL, WebSockets  
-✔ Разработка продакшен-приложения  
 
 ---
 
@@ -70,7 +47,7 @@
 ---
 
 ## 📍 **Контакты**
-📩 **Email:** your_email@gmail.com  
+📩 **Email:** maxonyushko71@gmail.com  
 💬 **Telegram:** [@Jkoffical2024])  
 
 
