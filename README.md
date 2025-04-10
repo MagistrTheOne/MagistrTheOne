@@ -1,13 +1,6 @@
-# 💫 About Me:
-Web3 Fullstack Solo Developer<br>Гениальность не требует команды.<br><br>💻 Я работаю соло, потому что никто не сделает лучше, чем я сам.<br>🔧 Стек 2025 — всё, что нужно для полного контроля.<br>📚 Пишу код с тех пор, как ты играл в песочнице. Тот самый уровень, когда даже Google начинает теряться в вопросах.<br><br>Frontend:<br>
-JS/TS — не вопрос, это основа.<br><br>
-React + Next.js 14 — SSR, ISR, App Router.<br><br>
-Tailwind CSS — стильный интерфейс без боли.<br><br>
-GraphQL (Apollo, Relay) — API, но по-настоящему.<br><br>
-Zustand/Recoil/React Query — чистота в управлении состоянием.<br><br>Backend:<br>Node.js (Nest.js, Fastify) — трафик держит, параллельность тоже.<br><br>PostgreSQL + Prisma — не SQL, а стиль.<br><br>MongoDB — для твоих NoSQL-фантазий.<br><br>Redis — для кеширования и реального времени.<br><br>
-Nginx/Caddy — безопасность и скорость.
-<br><br>CI/CD (GitHub Actions) — ещё пару недель, и буду на автомате.<br><br>
-Smart Contract Audits — все контракты под защитой, ни одной уязвимости.<br><br>🔥 Мои услуги стоят дороже, чем твои два авто luxeclass.
+#  About Me:
+Solo Fullstack dev(MERN and other type).
+Like:Music,Dev,Coding.
 
 
 ## 🌐 Socials:
