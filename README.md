@@ -1,6 +1,7 @@
 #  About Me:
-Solo Fullstack dev(MERN and other type).
-Like:Music,Dev,Coding.
+Solo fullstack developer.
+Like: React typescript+tailwind 4.0+ redux+ supabase(or firebase)
+like: Music Producer|Tiktok creator|QA Middle+
 
 
 ## 🌐 Socials:
