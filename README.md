@@ -6,6 +6,7 @@ like: Music Producer|Tiktok creator|QA Middle+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/magistrtheone/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@magistrtheone) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/magistrtheone) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxonyushko71@gmail.com) 
+![GitHub Developer Program](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blue?logo=github)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
