@@ -17,7 +17,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ## 🛠 Проекты
 ### 🎧 [Twicofy – Modern Music Player](https://github.com/yourusername/twicofy)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/31112f66-c14d-4555-bef5-acd680d13c3a)
+
 
 > Music Player
 ### 🤖 [AI HR Review](https://github.com/yourusername/ai-hr-review)
