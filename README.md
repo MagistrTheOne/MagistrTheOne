@@ -17,6 +17,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ## 🛠 Проекты
 ### 🎧 [Twicofy – Modern Music Player](https://github.com/yourusername/twicofy)
+![Uploading image.png…]()
+
 > Music Player
 ### 🤖 [AI HR Review](https://github.com/yourusername/ai-hr-review)
 > Умная система анализа сотрудников на основе AI. Оптимизация процессов найма и ретеншна.
