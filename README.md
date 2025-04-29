@@ -1,16 +1,38 @@
-## Hi there 👋
+<!-- HEADER / ASCII STYLE LOGO -->
+<h1 align="center">Hey, I'm  MagistrTheOne👨‍💻</h1>
+<p align="center">
+  Fullstack Developer | React • Next.js • MongoDB • Supabase
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Fullstack+Engineer+by+Day;Music+Creator+by+Night;Building+Cool+Sh*t+Always" />
+</p>
+## ⚡ Tech Stack
 
-<!--
-**MagistrTheOne/MagistrTheOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+## 🛠 Проекты
+### 🎧 [Twicofy – Modern Music Player](https://github.com/yourusername/twicofy)
+> Музыкальный плеер нового поколения: автоплей, лайки, перемотка, громкость, всё — на чистом JS + MongoDB + Supabase.
+![twicofy-preview](https://your-image-hosting/twicofy-preview.png)
+### 🤖 [AI HR Review](https://github.com/yourusername/ai-hr-review)
+> Умная система анализа сотрудников на основе AI. Оптимизация процессов найма и ретеншна.
+![ai-hr-preview](https://your-image-hosting/aihr-preview.png)
+### 🧑‍💻 [Скоро: Личное портфолио](https://github.com/yourusername/portfolio)
+> Покажу, кто я, чем занимаюсь и почему люблю веб.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+## 📫 Как связаться:
+- 📬 Telegram: [@Jkoffical2024](https://t.me/Jkoffical2024)
+- 🌐 https://www.linkedin.com/in/magistrtheone/
+- 📩 Email: maxonyushko71@gmail.com
+> 🔥 “Code like you mean it. Build like it matters.”
