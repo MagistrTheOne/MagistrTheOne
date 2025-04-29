@@ -29,8 +29,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
 </p>
-## 📫 Как связаться:
-- 📬 Telegram: [@Jkoffical2024](https://t.me/Jkoffical2024)
-- 🌐 https://www.linkedin.com/in/magistrtheone/
-- 📩 Email: maxonyushko71@gmail.com
-> 🔥 “Code like you mean it. Build like it matters.”
