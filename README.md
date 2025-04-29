@@ -18,10 +18,8 @@
 ## 🛠 Проекты
 ### 🎧 [Twicofy – Modern Music Player](https://github.com/yourusername/twicofy)
 > Музыкальный плеер нового поколения: автоплей, лайки, перемотка, громкость, всё — на чистом JS + MongoDB + Supabase.
-![twicofy-preview](https://your-image-hosting/twicofy-preview.png)
 ### 🤖 [AI HR Review](https://github.com/yourusername/ai-hr-review)
 > Умная система анализа сотрудников на основе AI. Оптимизация процессов найма и ретеншна.
-![ai-hr-preview](https://your-image-hosting/aihr-preview.png)
 ### 🧑‍💻 [Скоро: Личное портфолио](https://github.com/yourusername/portfolio)
 > Покажу, кто я, чем занимаюсь и почему люблю веб.
 ## 📊 GitHub Stats
