@@ -39,10 +39,10 @@
 </p>
 
 ## 🧑‍💼 [MagistrTheOne – Resume](https://magistr.vercel.app/)
-> Персональное резюме.
+> Персональное резюме с акцентом на анимации, чистую типографику и продуманный UI.
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/9e7a7367-6e3d-4881-b2ca-3946d491e5f6)
+  <img src="(https://github.com/user-attachments/assets/0fd9c26a-3bef-4f5f-abb7-4e9d1cefd7b6)
 " alt="MagistrTheOne Resume Screenshot" width="600"/>
 </p>
 
