@@ -42,9 +42,9 @@
 > Персональное резюме с акцентом на анимации, чистую типографику и продуманный UI.
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/0fd9c26a-3bef-4f5f-abb7-4e9d1cefd7b6)
-" alt="MagistrTheOne Resume Screenshot" width="600"/>
+  <img src="https://github.com/user-attachments/assets/0fd9c26a-3bef-4f5f-abb7-4e9d1cefd7b6" alt="MagistrTheOne Resume Screenshot" width="600"/>
 </p>
+
 
 ## 📊 GitHub Stats
 
