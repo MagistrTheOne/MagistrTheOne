@@ -38,7 +38,13 @@
   <img src="https://github.com/user-attachments/assets/c8b1205c-f505-4354-b10c-0468cdf8f7b9" alt="E-come Screenshot" width="600"/>
 </p>
 
+## 🧑‍💼 [MagistrTheOne – Resume](https://magistr.vercel.app/)
+> Персональное резюме.
 
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/9e7a7367-6e3d-4881-b2ca-3946d491e5f6)
+" alt="MagistrTheOne Resume Screenshot" width="600"/>
+</p>
 
 ## 📊 GitHub Stats
 
