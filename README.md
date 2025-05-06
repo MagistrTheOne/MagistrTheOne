@@ -19,12 +19,11 @@
 ### 🎧 [Twicofy – Modern Music Player](https://github.com/yourusername/twicofy)
 ![image](https://github.com/user-attachments/assets/31112f66-c14d-4555-bef5-acd680d13c3a)
 
+##Twico E-come
+https://ecome-three.vercel.app/
+![image](https://github.com/user-attachments/assets/c8b1205c-f505-4354-b10c-0468cdf8f7b9)
 
-> Music Player
-### 🤖 [AI HR Review](https://github.com/yourusername/ai-hr-review)
-> Умная система анализа сотрудников на основе AI. Оптимизация процессов найма и ретеншна.
-### 🧑‍💻 [Скоро: Личное портфолио](https://github.com/yourusername/portfolio)
-> Покажу, кто я, чем занимаюсь и почему люблю веб.
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
