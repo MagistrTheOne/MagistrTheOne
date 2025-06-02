@@ -51,10 +51,10 @@ Git (честно, без “я случайно сделал force push”), Do
   [→ Смотри код/Live Demo](https://github.com/MagistrTheOne/MariViliaShow)  
 - **AI Clip Generator**  
   Генератор видео-контента с Google Veo 3, Tiktok-ready, фотореал, диалоги, advanced prompt'ы  
-- **QA Automation Dashboard**  
+- **QA Automation Dashboard**  (In work)
   Dashboard для контроля качества, автотесты, API-мониторинг, CI/CD интеграция  
-- **MusicBot**  
-  Telegram-бот, что пишет музыку и делает мастеринг лучше, чем некоторые лейблы
+- **MusicBot**  (In work)
+  Telegram-бот, что пишет музыку и делает мастеринг лучше, чем некоторые лейблы(In work)
 
 ---
 
