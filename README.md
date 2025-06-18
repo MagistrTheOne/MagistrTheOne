@@ -72,6 +72,3 @@ A quirky personal project that fuses AI with the absurd. Expect the unexpected. 
 
 > ⚡ *By the time you finish writing the spec, I’ve already shipped the MVP.*
 
----
-
-Feel free to adjust the level of detail depending on your audience or to clarify some of the more experimental projects like **NSI** or **Magistr ARI** if necessary in the future. Let me know if you need more tweaks!
