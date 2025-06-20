@@ -8,11 +8,11 @@ I specialize in fast prototyping, clean architecture, and pushing projects into 
 ---
 ## 🛠️ Core Stack & Expertise
 ### **Frontend**
-* React (v19), Vite, Tailwind CSS (v4), Zustand, Framer Motion
-* shadcn/ui, Styled Components, Three.js, WebGL
+* React (v19),Next js Vite, Tailwind CSS (v4), Zustand, Framer Motion
+* Tailwind v4, Styled Components, Three.js, WebGL
 ### **Backend**
 * Node.js, Express, PostgreSQL (Neon), REST APIs
-* Firebase Auth, WebSockets (Socket.io)
+* Firebase Auth, Neon,Supabase WebSockets (Socket.io)
 ### **AI & Machine Learning**
 * OpenAI (GPT), Midjourney, Suno, Bark, Google Veo
 * Hugging Face, TensorFlow\.js, Prompt Engineering
@@ -24,35 +24,13 @@ I specialize in fast prototyping, clean architecture, and pushing projects into 
 * Vercel, Netlify, Docker, Railway, Render, Git
 * CI/CD, Axios, GraphQL (in progress)
 ---
-## 🚀 Live & Notable Projects
-### 🎧 [**MagistrGod.AI**](https://magistrgodai.vercel.app)
-Next-gen Web DAW with AI Composer, MIDI editor, mixer, cloud sync, and zero-install experience.
-### 📿 **School of St. Maga Magistrovich**
-A meme-driven frontend cult project. WebGL sermons, SVG icons, and JS-parables.
-### 🌀 **MagistrGaV**
-An experimental architecture for LLM-to-LLM feedback using AI multiwave repeaters.
-(*Don’t ask. Just observe.*)
-### 🌐 **NSI (USSR 2070 Style)**
-A futuristic platform blending **27 AI LLMs**, **RPG mechanics**, **NFT integration**, and more. The ultimate sci-fi experience. (*Coming soon...*)
-### 🎧 **MagistrDaw**
-The next evolution in digital audio workstations powered by **AI**. More than just a DAW — it’s a creative ecosystem.
-### 🤖 **Magistr ARI**
-An AI-driven **augmented reality** platform. Combining cutting-edge AR tech with robust AI systems. (*Future project, stay tuned!*)
-### 🧙‍♀️ **BABA ZINA(Core GPT & MISTRAL)**
-A quirky personal project that fuses AI with the absurd. Expect the unexpected. (*Details coming soon.*)
-
----
-
 ## 🌱 Currently Building & Learning
-
 * Advanced React + Tailwind 4 UI/UX components
 * TensorFlow\.js inference systems in the browser
 * Multi-format waveform renderer + WebAudio mixer
 * AI-powered drum machines, melody generators, samplers
 * Demo video generation using Google Veo
-
 ---
-
 ## 💼 Why You Want Me On Your Team
 
 | 🚀 What I Offer                | 💬 Description                                                           |
