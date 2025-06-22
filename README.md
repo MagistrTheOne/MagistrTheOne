@@ -24,6 +24,8 @@ I specialize in fast prototyping, clean architecture, and pushing projects into 
 * Vercel, Netlify, Docker, Railway, Render, Git
 * CI/CD, Axios, GraphQL (in progress)
 ---
+# **Project**
+https://nsi-sim.netlify.app/ -NSI AGI SIM
 ## 🌱 Currently Building & Learning
 * Advanced React + Tailwind 4 UI/UX components
 * TensorFlow\.js inference systems in the browser
