@@ -25,7 +25,7 @@ I specialize in fast prototyping, clean architecture, and pushing projects into 
 * CI/CD, Axios, GraphQL (in progress)
 ---
 # **Project**
-https://nsi-sim.netlify.app/ -NSI AGI SIM
+ (https://shadowailand.netlify.app/) -Shadow ai
 ## 🌱 Currently Building & Learning
 * Advanced React + Tailwind 4 UI/UX components
 * TensorFlow\.js inference systems in the browser
