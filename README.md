@@ -15,7 +15,7 @@
 - 🧩 WORM‑хранилище + Layered Logging (Proof-grade Security)
 - 🔁 Auto-healing DAG pipeline с HPA/K8s + CI/CD (ArgoCD, GH Actions)
 - 🤖 **PrometheusGPT** — кастомная LLM, обученная на закрытых доменах
-- 🧱 Микроорчестратор памяти и агентов (или как вы это зовёте, “AGI core”)
+- 🧱 Оркестр памяти и агентов (или как вы это зовёте, “AGI core”)
 - 💼 GDPR, CCPA, API‑shield, L7‑proxy, multi‑auth — всё реализовано.
 
 ---
