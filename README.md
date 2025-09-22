@@ -1,4 +1,4 @@
-# 🚀 MagistrTheOne - Sky-Fi Matrix AI Hub
+# MagistrTheOne AI Hub
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-unstoppable-red.svg)
 
