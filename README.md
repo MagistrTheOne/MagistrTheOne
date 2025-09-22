@@ -130,7 +130,7 @@
 
 ---
 
-## 🎞️ Потоковый код: MATRIX MODE
+ 
 
 ```
 > initializing NEON QTG...
