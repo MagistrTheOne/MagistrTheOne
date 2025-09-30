@@ -23,6 +23,7 @@ You've entered the **MagistrTheOne AI ecosystem** — where reality is rewritten
 | **NEONGEN** | 🌀 Research | Quantum-topological generation | [GitHub](https://github.com/MagistrTheOne/NEONGEN) |
 | **Prometheus V3** | 🚀 Production | Production-ready AGI | [GitHub](https://github.com/MagistrTheOne/PrometheusV3) |
 | **Prometheus V4** | 🕶️ Classified | Dark matrix (do not open) | [GitHub](https://github.com/MagistrTheOne/PrometheusV4) |
+| **Oracle Frontend** | 🕶️ Frontend | for Oracle | [GitHub]([https://github.com/MagistrTheOne/PrometheusV4](https://github.com/MagistrTheOne/oracle_frontend)) |
 
 ---
 
