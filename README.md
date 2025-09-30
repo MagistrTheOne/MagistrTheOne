@@ -25,28 +25,7 @@ You've entered the **MagistrTheOne AI ecosystem** — where reality is rewritten
 | **Prometheus V4** | 🕶️ Classified | Dark matrix (do not open) | [GitHub](https://github.com/MagistrTheOne/PrometheusV4) |
 | **Oracle Frontend** | 🕶️ Frontend | for Oracle | [GitHub](https://github.com/MagistrTheOne/oracle_frontend) |
 
----
 
-## 🎯 Quick Start
-
-```bash
-# Clone any project
-git clone https://github.com/MagistrTheOne/oracle850b-moe.git
-cd oracle850b-moe
-
-# Install dependencies
-make venv
-make install
-
-# Run demo
-python scripts/demo_inference.py
-
-# Connect to the collective mind
-from src.modeling import Oracle850B
-model = Oracle850B.from_pretrained("MagistrTheOne/oracle850b-moe")
-response = model.generate("What is the meaning of consciousness?")
-print(response)
-```
 
 ---
 
