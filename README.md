@@ -91,7 +91,7 @@ Status:               Training initiated
 
 <div align="center">
 
-**Made with ⚡ in Краснодар, Russia**
+**Made with ⚡ in Kransodar, Russia**
 
 *Reality is just code waiting to be rewritten*
 
