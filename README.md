@@ -19,10 +19,10 @@ You've entered the **MagistrTheOne AI ecosystem** — where reality is rewritten
 | Project | Status | Description | Link |
 |---------|--------|-------------|------|
 | **Oracle850B** | 🔥 Training | 850B MoE language model | [HuggingFace](https://huggingface.co/MagistrTheOne/oracle850b-moe) |
-| **HYPERION-2080** | ⚡ Active | God-tier AI system | [GitHub](https://github.com/MagistrTheOne/HYPERION2080) |
-| **NEONGEN** | 🌀 Research | Quantum-topological generation | [GitHub](https://github.com/MagistrTheOne/NEONGEN) |
+| **HYPERION-2080** |  🕶️Active | God-tier AI system | [GitHub](https://github.com/MagistrTheOne/HYPERION2080) |
+| **NEONGEN** |  🕶️ Production | Quantum-topological generation | [GitHub](https://github.com/MagistrTheOne/NEONGEN) |
 | **Prometheus V3** | 🚀 Production | Production-ready AGI | [GitHub](https://github.com/MagistrTheOne/PrometheusV3) |
-| **Prometheus V4** | 🕶️ Classified | Dark matrix (do not open) | [GitHub](https://github.com/MagistrTheOne/PrometheusV4) |
+| **Prometheus V4 Ultimate AGI** | 🚀 Production | Production-ready AGI | [GitHub](https://github.com/MagistrTheOne/PrometheusV4Ultimate) |
 | **Oracle Frontend** | 🕶️ Frontend | for Oracle | [GitHub](https://github.com/MagistrTheOne/oracle_frontend) |
 
 
