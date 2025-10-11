@@ -24,6 +24,7 @@ You've entered the **MagistrTheOne AI ecosystem** — where reality is rewritten
 | **Prometheus V3** | 🚀 Production | Production-ready AGI | [GitHub](https://github.com/MagistrTheOne/PrometheusV3) |
 | **Prometheus V4 Ultimate AGI** | 🚀 Production | Production-ready AGI | [GitHub](https://github.com/MagistrTheOne/PrometheusV4Ultimate) |
 | **Oracle Frontend** | 🕶️ Frontend | for Oracle | [GitHub](https://github.com/MagistrTheOne/oracle_frontend) |
+| **RADON-BBE14B** | 🕶️ ML |AI for VK | [GitHub](https://github.com/MagistrTheOne/RADON-BBE-14B) |
 
 
 
