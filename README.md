@@ -6,7 +6,7 @@
 
 ---
 
-## 🌌 Welcome to the Matrix
+## 🌌 Welcome to the ONE
 
 You've entered the **MagistrTheOne AI ecosystem** — where reality is rewritten with neural networks, quantum computing, and multiverse-scale architectures. Each project is a universe, each repository a portal.
 
