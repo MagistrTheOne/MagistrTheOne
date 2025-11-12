@@ -1,6 +1,6 @@
-# ⚡ MagistrTheOne AI Hub — V2
+# ⚡ MagistrTheOne AI Hub — V4
 
-![Version](https://img.shields.io/badge/version-2.0.0-cyan.svg)
+![Version](https://img.shields.io/badge/version-4.0.0-cyan.svg)
 ![Status](https://img.shields.io/badge/status-unstoppable-red.svg)
 ![Location](https://img.shields.io/badge/location-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80-darkorange.svg)
 
