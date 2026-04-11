@@ -1,10 +1,10 @@
 # ⚡ NULLXES // MagistrTheOne AI Hub
 
-![Version](https://img.shields.io/badge/version-5.0.0-cyan.svg)
+![Version](https://img.shields.io/badge/version-6.0.0-dark.svg)
 ![Status](https://img.shields.io/badge/status-classified-black.svg)
 ![Program](https://img.shields.io/badge/program-advanced_ai-darkred.svg)
 
-> "Some systems are not designed for the public internet."
+> "FUTURE WITH US NULLXES"
 
 ---
 
@@ -31,7 +31,8 @@ Access does not imply full visibility.
 | **Oracle850B**      | 🔥 Training | Large scale MoE language model     | [https://huggingface.co/MagistrTheOne/oracle850b-moe](https://huggingface.co/MagistrTheOne/oracle850b-moe) |
 | **NULLXES PHANTOM** | ███████     | 500B parameter cognitive system    | CLASSIFIED                                                                                                 |
 | **Oracle‑Next**     | ███████     | Experimental MoE architecture      | RESTRICTED                                                                                                 |
-| **Arachne‑X‑Ultra** | ACTIVE      | Autonomous AI orchestration engine | INTERNAL                                                                                                   |
+| **Arachne‑X‑Ultra** | PRODUCTION  | Autonomous AI orchestration engine | [INTERNAL  ](https://huggingface.co/MagistrTheOne/ARACHNE-X-ULTRA-VIDEO)                                   |
+| **VERIDIAN Ru MoE Beta** | PRODUCTION  | MOE |                          [INTERNAL  ](https://huggingface.co/MagistrTheOne/veridian-beta)                                            |
 
 ---
 
