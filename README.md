@@ -1,166 +1,184 @@
-# ⚡ NULLXES // MagistrTheOne AI Hub
+# ⚡ NULLXES // MagistrTheOne
 
-![Version](https://img.shields.io/badge/version-6.0.0-dark.svg)
-![Status](https://img.shields.io/badge/status-classified-black.svg)
-![Program](https://img.shields.io/badge/program-advanced_ai-darkred.svg)
+![Version](https://img.shields.io/badge/version-7.0.0-black.svg)
+![Status](https://img.shields.io/badge/status-active-darkgreen.svg)
+![Company](https://img.shields.io/badge/company-NULLXES_LLC-gold.svg)
+![Focus](https://img.shields.io/badge/focus-Digital_Employees-darkblue.svg)
 
-> "FUTURE WITH US NULLXES"
+> FUTURE WITH US
 
 ---
 
-## 🧬 NULLXES Research Network
-
-This repository is part of the **NULLXES advanced AI research environment**.
-
-The systems documented here represent experimental architectures, large‑scale neural models, and autonomous cognitive infrastructures currently under development.
-
-Certain components are intentionally **redacted or partially disclosed**.
-
-Access does not imply full visibility.
-
 <div align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600" alt="MatrixRain">
+
+# NULLXES
+
+### Digital Employee Infrastructure
+
+Building autonomous AI employees, real-time avatar systems, enterprise orchestration platforms and foundation AI technologies.
+
 </div>
 
 ---
 
-# 🧠 Core Programs
+## 🧬 About NULLXES
 
-| Program             | Status      | Description                        | Access                                                                                                     |
-| ------------------- | ----------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Oracle850B**      | 🔥 Training | Large scale MoE language model     | [https://huggingface.co/MagistrTheOne/oracle850b-moe](https://huggingface.co/MagistrTheOne/oracle850b-moe) |
-| **NULLXES PHANTOM** | ███████     | 500B parameter cognitive system    | CLASSIFIED                                                                                                 |
-| **Oracle‑Next**     | ███████     | Experimental MoE architecture      | RESTRICTED                                                                                                 |
-| **Arachne‑X‑Ultra** | PRODUCTION  | Autonomous AI orchestration engine | [INTERNAL  ](https://huggingface.co/MagistrTheOne/ARACHNE-X-ULTRA-VIDEO)                                   |
-| **VERIDIAN Ru MoE Beta** | PRODUCTION  | MOE |                          [INTERNAL  ](https://huggingface.co/MagistrTheOne/veridian-beta)                                            |
+NULLXES LLC develops infrastructure for the next generation of digital employees.
 
----
+Our mission is to create AI systems capable of performing business operations, interacting with customers, supporting internal teams, and operating as scalable enterprise workforce infrastructure.
 
-# ⚙️ Infrastructure
+We believe artificial intelligence will become the primary interface between organizations and information.
 
-The following technologies support the training and orchestration of NULLXES models.
-
-```
-Compute Cluster:     NVIDIA H200 / B200
-Distributed Engine:  DeepSpeed ZeRO‑3
-Attention System:    Flash Attention 2
-Model Architecture:  Mixture of Experts
-Training Fabric:     █████████████████████
-Internal Framework:  Proprietary NULLXES stack
-```
-
-The stack is designed to operate **independently from external checkpoints or closed ecosystems**.
+NULLXES is focused on building systems, not isolated tools.
 
 ---
 
-# 🔒 Restricted Systems
+## 🚀 Core Products
 
-```
-Architecture:        [REDACTED]
-Training System:     [REDACTED]
-Infrastructure:      [REDACTED]
-
-Core Parameters:     500B
-
-Cognitive Layer:     ██████████████
-Memory Mesh:         █████████████
-Neural Depth:        █████████████████
-
-Model Codename:      PHANTOM
-Generation:          ?
-Release Date:        [REDACTED]
-
-Human AI Android:    Transferred
-Date:                ??? Q4
-
-Company:             NU ███XES LLC
-Primary Interface:   ANNA
-Status:              ███████████
-```
-
-These systems are part of the **NULLXES advanced AI program**.
-
-Details remain intentionally undisclosed.
+| Product                    | Status | Description                            |
+| -------------------------- | ------ | -------------------------------------- |
+| NULLXES Digital Employee   | ACTIVE | Enterprise AI employee platform        |
+| ARACHNE-X-ULTRA V3         | ACTIVE | Real-time video avatar infrastructure  |
+| NULLXES Runtime            | ACTIVE | AI orchestration environment           |
+| Enterprise Knowledge Layer | ACTIVE | Corporate memory and retrieval systems |
 
 ---
 
-# 🧬 Design Philosophy
+## 🧠 Research Programs
+
+| Program                | Status   | Description                    |
+| ---------------------- | -------- | ------------------------------ |
+| KNK-VF-153B            | Research | Sparse MoE foundation model    |
+| KNK-VF-Lab-38B         | Research | Experimental training platform |
+| ARACHNE-FOUNDATION-50B | Research | Foundation model initiative    |
+| NULLXES PHANTOM        | Internal | Cognitive systems research     |
+
+---
+
+## ⚙️ Infrastructure
+
+```text
+Compute Hardware:      NVIDIA H200 / B200 / B300
+Architecture:          Mixture of Experts
+Distributed Training:  DeepSpeed ZeRO-3
+Attention System:      Flash Attention
+Vector Infrastructure: pgvector
+Runtime Environment:   NULLXES Runtime
+Deployment:            Cloud / Private Cloud / On-Prem
+```
+
+---
+
+## 🏗 Technology Stack
+
+```text
+Frontend:
+- Next.js
+- React
+- TypeScript
+
+Backend:
+- PostgreSQL
+- Drizzle ORM
+- Vector Search
+
+AI Layer:
+- LLM Infrastructure
+- Real-Time Voice
+- Real-Time Video Avatars
+- Autonomous Agents
+
+Enterprise:
+- CRM Integrations
+- Knowledge Systems
+- Digital Employees
+- Workflow Automation
+```
+
+---
+
+## 📊 Current Focus
+
+```text
+Digital Employees
+Enterprise Automation
+Real-Time AI Avatars
+Foundation Models
+Enterprise Knowledge Systems
+Autonomous Agent Infrastructure
+```
+
+---
+
+## 🌍 Region
+
+<div align="center">
+
+### Russia
+
+Primary operational region
+
+</div>
+
+---
+
+## 📡 Research Network
+
+Hugging Face:
+
+https://huggingface.co/MagistrTheOne
+
+GitHub:
+
+https://github.com/MagistrTheOne
+
+Models:
+
+https://huggingface.co/MagistrTheOne/KNK-VF-153B
+
+https://huggingface.co/MagistrTheOne/KNK-VF-Lab-38B
+
+https://huggingface.co/MagistrTheOne/ARACHNE-FOUNDATION-50B
+
+---
+
+## 📬 Contacts
+
+Email:
+
+[ceo@nullxes.com](mailto:ceo@nullxes.com)
+
+Telegram:
+
+@MagistrTheOne
+
+---
+
+## 🧬 Design Philosophy
 
 ```python
 class Reality:
 
     def __init__(self):
         self.architect = "MagistrTheOne"
-        self.system = "NULLXES"
+        self.company = "NULLXES"
 
-    def rewrite(self):
-        return "Future systems are already in development."
+    def build(self):
+        return "Future systems are already under construction."
 ```
 
-NULLXES operates on a simple assumption:
+Artificial intelligence is becoming infrastructure.
 
-**Artificial intelligence will become the primary interface of civilization.**
-
-The mission is not to build tools.
-
-The mission is to build **systems**.
-
----
-
-# 📊 System Metrics
-
-```
-Total Parameters:     █████████████████████████████
-Active Parameters:    ~120,000,000,000+
-Compute Hardware:     NVIDIA B200
-Languages:            EN / RU
-Context Window:       ███████████████████████████
-Status:               Training initialized
-```
-
----
-
-# 🌍 Program Timeline
-
-**2026‑2030 Development Window**
-
-```
-NULLXES Human Android           Q4 Deployment
-PHANTOM AI                      Training
-Oracle‑1T                       Planned
-PHANTOM Mega                    Internal
-ARACHNE‑X‑ULTRA                 Active
-```
-
----
-
-# 📡 Network
-
-* Hugging Face → [https://huggingface.co/MagistrTheOne](https://huggingface.co/MagistrTheOne)
-* GitHub → [https://github.com/MagistrTheOne](https://github.com/MagistrTheOne)
-
-Operational regions:
-
-```
-SG
-Dubai
-Russia
-EU
-```
+NULLXES is building that infrastructure.
 
 ---
 
 <div align="center">
 
-### NULLXES Research Division
-
-MagistrTheOne
+### NULLXES LLC
 
 2026
 
-```
-Internal circulation only
-Unauthorized distribution prohibited
-```
+FUTURE WITH US
 
 </div>
