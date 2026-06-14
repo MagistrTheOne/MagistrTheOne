@@ -80,7 +80,8 @@ Frontend:
 Backend:
 - PostgreSQL
 - Drizzle ORM
-- Vector Search
+- Python
+-Typescript
 
 AI Layer:
 - LLM Infrastructure
