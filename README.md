@@ -1,11 +1,11 @@
 # ⚡ NULLXES // MagistrTheOne
 
-![Version](https://img.shields.io/badge/version-7.0.0-black.svg)
+![Version](https://img.shields.io/badge/version-8.0.0-black.svg)
 ![Status](https://img.shields.io/badge/status-active-darkgreen.svg)
 ![Company](https://img.shields.io/badge/company-NULLXES_LLC-gold.svg)
-![Focus](https://img.shields.io/badge/focus-Digital_Employees-darkblue.svg)
+![Focus](https://img.shields.io/badge/focus-Intelligence_Research-darkblue.svg)
 
-> FUTURE WITH US
+> ONE INTELLIGENCE. DIFFERENT BODIES.
 
 ---
 
@@ -13,9 +13,9 @@
 
 # NULLXES
 
-### Digital Employee Infrastructure
+### Intelligence Research & Infrastructure
 
-Building autonomous AI employees, real-time avatar systems, enterprise orchestration platforms and foundation AI technologies.
+Building artificial intelligence systems for language, vision, reasoning and embodied machines.
 
 </div>
 
@@ -23,103 +23,130 @@ Building autonomous AI employees, real-time avatar systems, enterprise orchestra
 
 ## 🧬 About NULLXES
 
-NULLXES LLC develops infrastructure for the next generation of digital employees.
+NULLXES LLC is a DeepTech research company focused on building proprietary intelligence systems.
 
-Our mission is to create AI systems capable of performing business operations, interacting with customers, supporting internal teams, and operating as scalable enterprise workforce infrastructure.
+Our mission is to develop the intelligence layer for future machines:
 
-We believe artificial intelligence will become the primary interface between organizations and information.
+- Language Intelligence
+- Vision Intelligence
+- Reasoning Systems
+- Autonomous Agent Architectures
+- Physical AI Foundations
 
-NULLXES is focused on building systems, not isolated tools.
-
----
-
-## 🚀 Core Products
-
-| Product                    | Status | Description                            |
-| -------------------------- | ------ | -------------------------------------- |
-| NULLXES Digital Employee   | ACTIVE | Enterprise AI employee platform        |
-| ARACHNE-X-ULTRA V3         | ACTIVE | Real-time video avatar infrastructure  |
-| NULLXES Runtime            | ACTIVE | AI orchestration environment           |
-| Enterprise Knowledge Layer | ACTIVE | Corporate memory and retrieval systems |
+NULLXES develops core AI infrastructure, not isolated applications.
 
 ---
 
-## 🧠 Research Programs
+## 🧠 Intelligence Programs
 
-| Program                | Status   | Description                    |
-| ---------------------- | -------- | ------------------------------ |
-| KNK-VF-153B            | Research | Sparse MoE foundation model    |
-| KNK-VF-Lab-38B         | Research | Experimental training platform |
-| ARACHNE-FOUNDATION-50B | Research | Foundation model initiative    |
-| NULLXES PHANTOM        | Internal | Cognitive systems research     |
+| Program | Status | Description |
+| --- | --- | --- |
+| NULLXES SHINRA | Research | Proprietary language intelligence model family |
+| NULLXES CERBER | Active Research | Computer vision intelligence systems |
+| NULLXES RAIDEN | Research | Reasoning and advanced model architectures |
+| NULLXES AION | Research | Embodied intelligence architecture |
 
 ---
 
-## ⚙️ Infrastructure
+## 🚀 Current Research Focus
 
 ```text
-Compute Hardware:      NVIDIA H200 / B200 / B300
-Architecture:          Mixture of Experts
-Distributed Training:  DeepSpeed ZeRO-3
-Attention System:      Flash Attention
-Vector Infrastructure: pgvector
-Runtime Environment:   NULLXES Runtime
-Deployment:            Cloud / Private Cloud / On-Prem
+Foundation Language Models
+Custom Transformer Architectures
+AI Agent Systems
+Computer Vision Intelligence
+Machine Intelligence Infrastructure
+Physical AI Research
 ```
 
 ---
 
-## 🏗 Technology Stack
+## ⚙️ AI Infrastructure
 
 ```text
-Frontend:
-- Next.js
-- React
-- TypeScript
+Model Architecture:
+- Custom Transformer Systems
+- Dense and Sparse Model Research
+- Mixture of Experts Research
 
-Backend:
-- PostgreSQL
-- Drizzle ORM
-- Python
--Typescript
+Training:
+- PyTorch
+- Hugging Face Ecosystem
+- Distributed Training
+- Flash Attention
+- FSDP / DeepSpeed
 
-AI Layer:
-- LLM Infrastructure
-- Real-Time Voice
-- Real-Time Video Avatars
-- Autonomous Agents
+Hardware Targets:
+- NVIDIA A100
+- NVIDIA H200
+- NVIDIA B200 / B300
 
-Enterprise:
-- CRM Integrations
-- Knowledge Systems
-- Digital Employees
-- Workflow Automation
+Deployment:
+- Cloud
+- Private Infrastructure
+- Edge Systems
 ```
 
 ---
 
-## 📊 Current Focus
+## 🧬 NULLXES SHINRA
+
+SHINRA is the NULLXES language intelligence research program.
+
+Current target:
 
 ```text
-Digital Employees
-Enterprise Automation
-Real-Time AI Avatars
-Foundation Models
-Enterprise Knowledge Systems
-Autonomous Agent Infrastructure
+NULLXES SHINRA-4B-INSTRUCT
+
+Architecture:
+Decoder-only Dense Transformer
+Parameters:
+~3.93B
+Tokenizer:
+Custom NULLXES tokenizer
+Context:
+32K architecture target
+Training:
+BF16 / A100-class infrastructure
+```
+
+SHINRA focuses on:
+
+- multilingual understanding
+- coding intelligence
+- instruction following
+- agent interaction
+- structured reasoning workflows
+
+---
+
+## 👁 NULLXES CERBER
+
+Computer vision intelligence research for machine perception.
+
+Focus areas:
+
+```text
+Object Understanding
+Visual Perception
+Autonomous Systems
+Real-world Machine Interaction
 ```
 
 ---
 
-## 🌍 Region
+## 🧠 NULLXES Research Philosophy
 
-<div align="center">
+```python
+class Intelligence:
 
-### Russia
+    def __init__(self):
+        self.architect = "MagistrTheOne"
+        self.company = "NULLXES"
 
-Primary operational region
-
-</div>
+    def build(self):
+        return "Intelligence becomes infrastructure."
+```
 
 ---
 
@@ -133,44 +160,17 @@ GitHub:
 
 https://github.com/MagistrTheOne
 
-Models:
-
-https://huggingface.co/MagistrTheOne/KNK-VF-153B
-
-https://huggingface.co/MagistrTheOne/KNK-VF-Lab-38B
-
-https://huggingface.co/MagistrTheOne/ARACHNE-FOUNDATION-50B
-
 ---
 
 ## 📬 Contacts
 
 Email:
 
-[ceo@nullxes.com](mailto:ceo@nullxes.com)
+ceo@nullxes.com
 
 Telegram:
 
 @MagistrTheOne
-
----
-
-## 🧬 Design Philosophy
-
-```python
-class Reality:
-
-    def __init__(self):
-        self.architect = "MagistrTheOne"
-        self.company = "NULLXES"
-
-    def build(self):
-        return "Future systems are already under construction."
-```
-
-Artificial intelligence is becoming infrastructure.
-
-NULLXES is building that infrastructure.
 
 ---
 
@@ -180,6 +180,6 @@ NULLXES is building that infrastructure.
 
 2026
 
-FUTURE WITH US
+ONE INTELLIGENCE. DIFFERENT BODIES.
 
 </div>
